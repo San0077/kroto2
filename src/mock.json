@@ -1,0 +1,160 @@
+const obj =[
+  
+    {
+  img:"https://mir-s3-cdn-cf.behance.net/projects/404/67d60c147964219.Y3JvcCwxMDk4LDg1OSwyLDA.png",
+  title:"Levi",
+  like:320,
+  eye:320,
+  type:"project"
+   
+},
+{
+    img:"https://mir-s3-cdn-cf.behance.net/projects/404/3c5eb2152162879.Y3JvcCw1OTQ0LDQ2NTAsNTE1LDA.jpg",
+    title:"20 Blocks.",
+    like:320,
+    eye:320,
+    type:"People"
+  },
+  {
+    img:"https://mir-s3-cdn-cf.behance.net/projects/404/eb537b139372311.Y3JvcCwyMDQ2LDE2MDEsMjU4LDA.jpg",
+    title:"Konnichiwa Zhongshan",
+    like:320,
+    eye:320,
+    type:"Moodboards"
+  },
+  {
+    img:"https://mir-s3-cdn-cf.behance.net/projects/404/28a246121176283.Y3JvcCwxMTkxLDkzMSwxMDYsMA.jpg",
+    title:"Felippe Percigo",
+    like:320,
+    eye:320,
+    type:"project"
+  },
+  {
+    img:"https://mir-s3-cdn-cf.behance.net/projects/404/28a246121176283.Y3JvcCwxMTkxLDkzMSwxMDYsMA.jpg",
+    title:"Felippe Percigo",
+    like:320,
+    eye:320,
+    type:"project"
+  },
+  {
+    img:"https://mir-s3-cdn-cf.behance.net/projects/404/28a246121176283.Y3JvcCwxMTkxLDkzMSwxMDYsMA.jpg",
+    title:"Felippe Percigo",
+    like:320,
+    eye:320,
+    type:"project"
+  },
+  {
+    img:"https://mir-s3-cdn-cf.behance.net/projects/404/28a246121176283.Y3JvcCwxMTkxLDkzMSwxMDYsMA.jpg",
+    title:"Felippe Percigo",
+    like:320,
+    eye:320,
+    type:"project"
+  },
+  {
+    img:"https://mir-s3-cdn-cf.behance.net/projects/404/28a246121176283.Y3JvcCwxMTkxLDkzMSwxMDYsMA.jpg",
+    title:"Felippe Percigo",
+    like:320,
+    eye:320,
+    type:"project"
+  },
+  {
+    img:"https://mir-s3-cdn-cf.behance.net/projects/404/47add4111051213.Y3JvcCw4MDgsNjMyLDUwLDA.jpg",
+    title:"kThe Telegraph Magazine Vol. 2",
+    like:320,
+    eye:320,
+    type:"Images"
+  },
+  {
+    img:"https://mir-s3-cdn-cf.behance.net/projects/404/47add4111051213.Y3JvcCw4MDgsNjMyLDUwLDA.jpg",
+    title:"kThe Telegraph Magazine Vol. 2",
+    like:320,
+    eye:320,
+    type:"Images"
+  },
+  {
+    img:"https://mir-s3-cdn-cf.behance.net/projects/404/47add4111051213.Y3JvcCw4MDgsNjMyLDUwLDA.jpg",
+    title:"kThe Telegraph Magazine Vol. 2",
+    like:320,
+    eye:320,
+    type:"Images"
+  },
+  {
+    img:"https://mir-s3-cdn-cf.behance.net/projects/404/47add4111051213.Y3JvcCw4MDgsNjMyLDUwLDA.jpg",
+    title:"kThe Telegraph Magazine Vol. 2",
+    like:320,
+    eye:320,
+    type:"Images"
+  },
+  {
+    img:"https://mir-s3-cdn-cf.behance.net/projects/404/47add4111051213.Y3JvcCw4MDgsNjMyLDUwLDA.jpg",
+    title:"kThe Telegraph Magazine Vol. 2",
+    like:320,
+    eye:320,
+    type:"Images"
+  },
+
+  {
+    img:"https://mir-s3-cdn-cf.behance.net/projects/404/f57a9994476095.Y3JvcCwxMjczLDk5Niw2Myww.jpg",
+    title:"Cultural",
+    like:320,
+    eye:320,
+    type:"Protypes"
+  },
+  {
+    img:"https://mir-s3-cdn-cf.behance.net/projects/404/3b85bc128498009.Y3JvcCw0NTY2LDM1NzIsMjAzLDA.jpg",
+    title:"Identity for Empire Hall",
+    like:320,
+    eye:320,
+    type:"Protypes"
+  },
+  {
+    img:"https://mir-s3-cdn-cf.behance.net/projects/404/3b85bc128498009.Y3JvcCw0NTY2LDM1NzIsMjAzLDA.jpg",
+    title:"Identity for Empire Hall",
+    like:320,
+    eye:320,
+    type:"Protypes"
+  },
+  {
+    img:"https://mir-s3-cdn-cf.behance.net/projects/404/3b85bc128498009.Y3JvcCw0NTY2LDM1NzIsMjAzLDA.jpg",
+    title:"Identity for Empire Hall",
+    like:320,
+    eye:320,
+    type:"Protypes"
+  },
+  {
+    img:"https://mir-s3-cdn-cf.behance.net/projects/404/3b85bc128498009.Y3JvcCw0NTY2LDM1NzIsMjAzLDA.jpg",
+    title:"Identity for Empire Hall",
+    like:320,
+    eye:320,
+    type:"Protypes"
+  },
+  {
+    img:"https://mir-s3-cdn-cf.behance.net/projects/404/3b85bc128498009.Y3JvcCw0NTY2LDM1NzIsMjAzLDA.jpg",
+    title:"Identity for Empire Hall",
+    like:320,
+    eye:320,
+    type:"Protypes"
+  },
+  {
+    img:"https://mir-s3-cdn-cf.behance.net/projects/404/3b85bc128498009.Y3JvcCw0NTY2LDM1NzIsMjAzLDA.jpg",
+    title:"Identity for Empire Hall",
+    like:320,
+    eye:320,
+    type:"Protypes"
+  },
+  {
+    img:"https://www.behance.net/gallery/150501047/Caspo/modules/849836111",
+    title:"Maxim Durbailov",
+    like:320,
+    eye:320,
+    type:"Images"
+  },
+  {
+    img:"https://www.behance.net/gallery/150501047/Caspo/modules/849836111",
+    title:"Maxim Durbailov",
+    like:320,
+    eye:320,
+    type:"Images"
+  },
+
+]
