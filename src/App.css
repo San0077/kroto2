@@ -1,8 +1,76 @@
+body{
+  padding: 0;
+  margin: 0;
+  
+  background-color:#969697!important
+}
 .app{
   display: flex;
-  width: 80%;
-  flex-wrap: wrap;
-  row-gap: 20px;
-  column-gap: 20px;
-  justify-content: space-around;
+  height: 70px;
+  width: 100%;
+  background-color: #3299A5;
+  align-items: center;
+  justify-content: flex-start;
+  padding-left: 100px;
+  color: white;
+  font-size: 25px;
+  gap: 10px;
+}
+.button{
+  margin:20px;
+  padding:5px 10px;
+  border: 2px solid white;
+  background-color: transparent;
+  color:white
+}
+.header{
+  height: 70px;
+  width: 100%;
+}
+.details{
+  display: flex;
+  padding:20px;
+  justify-content: flex-start;
+  flex-direction: column;
+  gap:15px
+}
+.details p{
+  font-size:18px;
+}
+.details div{
+  display: flex;
+  justify-content: flex-end;
+  gap:20px
+}
+div+p{
+  text-decoration: underline;
+  color:#3299A5
+}
+.seletion{
+ display:flex;
+ flex-direction: column;
+}
+.button2{
+  font-weight: bold;
+  padding:5px 5px;
+  border: 2px solid white;
+  background-color: transparent;
+  color:black
+}
+.details{
+  height: 91vh;
+ overflow-y: scroll;
+ overflow-x: scroll;
+}
+.final{
+  display: flex;
+ justify-content: flex-start;
+ width:100%
+}
+.final :nth-child(1){
+
+  padding: 5px 10px;
+  border-radius: 5px;
+  background-color:#3299A5!important;
+  color:white;
 }
