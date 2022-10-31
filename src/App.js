@@ -2,7 +2,7 @@ import './App.css';
 import React,{useEffect, useRef, useState} from 'react';
 import {Routes, Route,useNavigate ,Navigate} from 'react-router-dom';
 import { ChakraProvider, Drawer,Input , DrawerCloseButton, DrawerContent, DrawerOverlay, useDisclosure, Select, DrawerFooter } from '@chakra-ui/react';
-import { SizeExample } from './drawer';
+
 import { Button } from 'react-bootstrap';
 
 var valueName=[]
